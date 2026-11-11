@@ -6,10 +6,10 @@ project:
   # description:
   # keywords: []
   authors: 
-    - name: Freek Pols
-    - name: Roel Smit
+    - name: Simon Tsang-Ason
+    - name: 
 
-  github: https://github.com/Contemporary-Physicslab/thermolab
+  github: https://github.com/fusiguro/IP2
   plugins:
     - https://github.com/jupyter-book/myst-plugins/releases/download/page-last-updatedv1.1/page-last-updated.mjs
   toc:
